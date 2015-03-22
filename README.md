@@ -8,6 +8,9 @@ en HTML5/CSS3 lors de mon cursus en DUT informatique.
 Je suis actuellement en 2eme année de mes études en INFO.
 Pour plus de détails voir ma page web que je vais créer lors de ce projet.
 
+22/03/2015 ==> Projet terminé
+Lien ==> https://github.com/maktimour93/PagePerso.git
+
 Cordialement
 
 UNCUOGLU Timour S3D
